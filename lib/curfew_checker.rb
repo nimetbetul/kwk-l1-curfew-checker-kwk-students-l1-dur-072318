@@ -1,19 +1,22 @@
 def simple_curfew_checker(time)
-  # code goes here
+  if x<11
+    print "Time is less than eleven"
 end
 
 def curfew_checker(time)
-  # code goes here
+  elsif == 11
+  print "Time is eleven!"
 end
 
 def complex_curfew_checker(time)
-  # code goes here
+else
+  print "Time is greater than eleven! You are late!"
 end
 
 def deluxe_curfew_checker(time)
-  # code goes here
+  
 end
 
 def platinum_curfew_checker(current_time, curfew_time)
-  # code goes here
+  
 end
