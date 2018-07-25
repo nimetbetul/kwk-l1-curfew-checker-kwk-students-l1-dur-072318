@@ -4,12 +4,12 @@ def simple_curfew_checker(time)
 end
 
 def curfew_checker(time)
-  elsif == 11
+  if == 11
   print "Time is eleven!"
 end
 
 def complex_curfew_checker(time)
-else
+  if 
   print "Time is greater than eleven! You are late!"
 end
 
